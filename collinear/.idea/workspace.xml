@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../queues/Dequeue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../queues/Deque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../queues/Permutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../queues/RandomizedQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../percolation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../percolation/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,24 +95,48 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/code/princeton_Algoritihms/percolation&quot;
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
+  <component name="RunManager" selected="Application.FastCollinearPoints">
+    <configuration name="BruteCollinearPoints" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BruteCollinearPoints" />
+      <module name="Algorithms, Part I" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FastCollinearPoints" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FastCollinearPoints" />
+      <module name="Algorithms, Part I" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Point" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Point" />
+      <module name="Algorithms, Part I" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FastCollinearPoints" />
+        <item itemvalue="Application.BruteCollinearPoints" />
+        <item itemvalue="Application.Point" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <created>1690185865763</created>
+      <created>1690939497724</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1690185865763</updated>
-      <workItem from="1690185867054" duration="2709000" />
-      <workItem from="1690190048052" duration="7142000" />
-      <workItem from="1690202893998" duration="685000" />
-      <workItem from="1690458315915" duration="34000" />
-      <workItem from="1690458911909" duration="1401000" />
-      <workItem from="1690509849620" duration="16000" />
-      <workItem from="1690510872598" duration="256000" />
+      <updated>1690939497724</updated>
+      <workItem from="1690939500009" duration="13253000" />
+      <workItem from="1690962580112" duration="135000" />
     </task>
     <servers />
   </component>
@@ -163,16 +189,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/PercolationVisualizer.java</url>
-          <line>78</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
